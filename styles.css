@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fea7dd; /* Fond rose */
+    color: #000;
+    text-align: center;
+}
+
+.container {
+    padding: 50px;
+}
+
+.panda-image {
+    width: 200px; /* Ajuster la taille de l'image selon besoin */
+}
+
+.token-name {
+    font-size: 48px; /* Taille du nom du token */
+    margin: 20px 0;
+}
+
+.slogan {
+    font-size: 24px; /* Taille du slogan */
+    margin: 10px 0;
+}
+
+.contract-address {
+    font-size: 18px; /* Taille de l'adresse du contrat */
+    margin: 20px 0;
+}
+
+.trade-link {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
